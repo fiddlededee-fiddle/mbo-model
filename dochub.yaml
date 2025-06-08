@@ -10,3 +10,9 @@ imports:
   - https://beta.dochub.info/archcode/_metamodel_/ceaf-app/dochub.yaml
   # Базовая документация по DocHubIDE
   - https://alpha.dochub.info/archcode/dochub.yaml
+docs:
+  dochub.welcome1:
+    type: markdown
+    source: dochub.welcome1.md
+    location: / Welcome
+    title: " Welcome"
