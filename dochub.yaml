@@ -16,3 +16,8 @@ docs:
     source: dochub.welcome1.md
     location: / Welcome
     title: " Welcome"
+  dochub.welcome2:
+    type: excalidraw
+    source: dochub.welcome2.excalidraw
+    location: / Welcome/Excalidraw
+    title: Excalidraw
