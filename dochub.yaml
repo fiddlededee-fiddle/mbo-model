@@ -21,3 +21,8 @@ docs:
     source: dochub.welcome2.excalidraw
     location: / Welcome/Excalidraw
     title: Excalidraw
+  test.wysywig:
+    type: jodit
+    source: test.wysywig.wyg
+    location: /test висивиг
+    title: test висивиг
